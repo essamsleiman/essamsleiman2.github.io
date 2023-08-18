@@ -4,7 +4,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Resume"
+  title="Essam Sleiman – Resume"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 

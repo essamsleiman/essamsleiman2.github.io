@@ -42,8 +42,8 @@
 </script>
 
 <Seo
-  title="Eric Zhang"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
+  title="Essam Sleiman"
+  description="researcher and engineer. Making meaningful systems and interfaces for people."
 />
 
 <p
